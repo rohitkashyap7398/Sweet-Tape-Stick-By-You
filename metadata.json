@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Tape — Stick By You",
+  "description": "Stick with you through three generations. Tactile brand showcase and interactive product world for Sweet Tape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
